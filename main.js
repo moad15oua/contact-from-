@@ -1,12 +1,11 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-  apiKey: "AIzaSyAS2oJgLYwK-2Yz7zPuw0Ssh-3OYOZCLvA",
-    authDomain: "arbitrage-d7d01.firebaseapp.com",
-    databaseURL: "https://arbitrage-d7d01.firebaseio.com",
-    projectId: "arbitrage-d7d01",
-    storageBucket: "arbitrage-d7d01.appspot.com",
-    messagingSenderId: "351302047929",
-    appId: "1:351302047929:web:cc976abf5d3d1cd9cfe368"
+ apiKey: "AIzaSyC8dFg_SoMd4GS02eCARSrHmX6ehfFtszc",
+    authDomain: "cod-form.firebaseapp.com",
+    projectId: "cod-form",
+    storageBucket: "cod-form.appspot.com",
+    messagingSenderId: "598661975897",
+    appId: "1:598661975897:web:3127eeacc000922ed04648"
 };
 firebase.initializeApp(config);
 
